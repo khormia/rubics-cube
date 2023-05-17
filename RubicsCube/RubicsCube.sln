@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubicsCube", "RubicsCube\RubicsCube.csproj", "{3970B672-A41F-461C-8DE4-52FC61C2E46E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3970B672-A41F-461C-8DE4-52FC61C2E46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3970B672-A41F-461C-8DE4-52FC61C2E46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3970B672-A41F-461C-8DE4-52FC61C2E46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3970B672-A41F-461C-8DE4-52FC61C2E46E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BCDA97C-9D57-470F-8191-93A4BDB03FE2}
+	EndGlobalSection
+EndGlobal
